@@ -1,6 +1,6 @@
 # 🚀 Tool Coding Profile
 
-![GitHub Banner](/img/banner.png)
+![GitHub Banner](/profile/img/banner.png)
 
 Welcome to the **Tool Hood**, a collection of tools designed specifically for casking and pro gamersware workflows to increase employee productivity and efficiency. My Tools offers a range of features to help automate everyday copy-paste tasks and improve your workflows.
 
