@@ -2,26 +2,26 @@
 
 ![GitHub Banner](/img/banner.png)
 
-Willkommen in der **Tool Hood**, einer Sammlung an verschiedensten Tools, welche speziell für Casking und Pro Gamersware arbeitsprozesse entwickelt wurden, um die Produktivität und Effizienz der Mitarbeiter zu steigern. Meine Tools bietet eine Reihe von Funktionen, die helfen, alltägliche Copy-Paste-Aufgaben zu automatisieren und Ihre Workflows zu verbessern.
+Welcome to the **Tool Hood**, a collection of tools designed specifically for casking and pro gamersware workflows to increase employee productivity and efficiency. My Tools offers a range of features to help automate everyday copy-paste tasks and improve your workflows.
 
 ## 🔧 Tools
 
-- **NobleChairs Tool**: Dieses Tool bietet dem Benutzer die Möglichkeit Kundendaten innerhalb von 2 klicks zu übertragen.
-- **FedEx Returnlabel Tool**: Dieses Tool setzt auf Static Informationen in das FedEx Returnlabel Formular ein.
+- **NobleChairs Tool**: This tool provides the user with the ability to transfer customer data within 2 clicks.
+- **FedEx Returnlabel Tool**: This tool inserts static information into the FedEx Returnlabel form.
 
-## 🛠️ Beiträge
+## 🛠️ Contributions
 
-Wenn Sie ein Feature vorschlagen oder einen Bug melden möchten, öffnen Sie einfach ein [Issue](https://github.com/ToolHood/.github/issues) in dem jeweiligen Projekt. Pull-Requests sind ebenfalls willkommen.
+If you would like to suggest a feature or report a bug, simply open an [Issue](https://github.com/ToolHood/.github/issues) in the respective project. Pull requests are also welcome.
 
-## 📞 Kontakt
+## 📞 Contact
 
-Haben Sie Fragen oder Anregungen? Kontaktieren Sie uns gerne:
+Do you have any questions or suggestions? Please feel free to contact us:
 
 - **Website**: [Pro Gamersware](https://www.gamersware.com/)
-- **E-Mail**: cthiel@gamersware.com
+- **E-mail**: cthiel@gamersware.com
 - **Discord**: [yocker.104](discordapp.com/users/461137123576119316)
 - **Twitter**: [@YockerFX](https://x.com/yockerfx)
 
 ---
 
-Schneller, intelligenter und besser Arbeiten. 💻✨
+Work faster, smarter and better. 💻✨
