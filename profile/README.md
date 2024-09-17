@@ -7,6 +7,7 @@ Welcome to the **Tool Hood**, a collection of tools designed specifically for ca
 ## 🔧 Tools
 
 - **NobleChairs Tool**: This tool provides the user with the ability to transfer customer data within 2 clicks.
+- **NobleChairs Tool II**: This tool automaticly finds the SKU of a requested spare part.
 - **FedEx Returnlabel Tool**: This tool inserts static information into the FedEx Returnlabel form.
 
 ## 🛠️ Contributions
