@@ -17,7 +17,6 @@ If you would like to suggest a feature or report a bug, simply open an [Issue](h
 
 Do you have any questions or suggestions? Please feel free to contact us:
 
-- **Website**: [Pro Gamersware](https://www.gamersware.com/)
 - **E-mail**: cthiel@gamersware.com
 - **Discord**: [yocker.104](discordapp.com/users/461137123576119316)
 - **Twitter**: [@YockerFX](https://x.com/yockerfx)
